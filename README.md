@@ -8,5 +8,3 @@
 - **Meu nome real é Rafael Cezar Machado 🤷‍**
 - **Sou desenvolvedor de Bots para Discord 🧙‍**
 - **Tenho experiência na Programação 💁‍**
-
-- **Minha designer, recomendo caso precisar! 🦸‍**
