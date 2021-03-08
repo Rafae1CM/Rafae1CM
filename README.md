@@ -7,5 +7,5 @@
 # 🕵️‍ Rafael CM
 
 - **🌱 Meu nome real é Rafael Cezar Machado**
-- **🎠 Todos os meus projetos e repositórios estão em: https://github.com/Rafae1CM?tab=repositories **
+- **🎠 Todos os meus projetos e repositórios estão em: https://github.com/Rafae1CM?tab=repositories**
 - **🥏 Tenho experiência na Programação!**
