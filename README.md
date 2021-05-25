@@ -1,6 +1,8 @@
 <meta charset="UTF-8">
 
-Olá meu nome é Rafael, eu sou um estudante da ciência da computação.
+# Olá, meu nome é Rafael!
+
+Eu sou um estudante da ciência da computação.
 
 ## Tecnologias e Ferramentas
 
