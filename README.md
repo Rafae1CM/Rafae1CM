@@ -15,6 +15,7 @@ Eu sou um estudante da ciência da computação.
 ## Web desenvolvimento
 - [React](https://pt-br.reactjs.org/) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
 - [Next.js](https://nextjs.org/) é uma estrutura da web de desenvolvimento front-end React de código aberto criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React.
+- [Express](https://expressjs.com/pt-br/) é um framework para Node.js que fornece recursos mínimos para construção de servidores web.
 
 ## Linguagens
 
