@@ -7,6 +7,7 @@ Eu sou um estudante da ciência da computação.
 ## Tecnologias e Ferramentas
 
 - [Visual Studio Code](https://code.visualstudio.com/) é um editor de código-fonte leve, mas poderoso, que roda em sua área de trabalho e está disponível para Windows, macOS e Linux.
+- [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) é um ambiente de desenvolvimento integrado usado em programação de computadores, especificamente para a linguagem Python.
 - [Node.js](https://nodejs.org/en/) é um runtime de JavaScript construído no motor V8 JavaScript do Chrome.
 - [Ts-node](https://github.com/TypeStrong/ts-node) é um modificação do Node.js, que permite que o TypeScript seja executado perfeitamente.
 - [Github](https://github.com/) é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
