@@ -1,8 +1,8 @@
 <meta charset="UTF-8">
 
-# Olá, meu nome é Rafael!
+# 👋 Olá, meu nome é Rafael!
 
-Eu sou um estudante da ciência da computação.
+I'm developer and I like to study programming more and more.
 
 ## Tecnologias e Ferramentas
 
