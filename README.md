@@ -4,7 +4,7 @@
 
 I'm developer and I like to study programming more and more.
 
-## 🎠 Tecnologias e Ferramentas
+## 🎠 Technologies and Tools
 
 - [Visual Studio Code](https://code.visualstudio.com/) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
 - [PyCharm](https://www.jetbrains.com/pycharm/) is an integrated development environment (IDE) used in computer programming, specifically for the Python language.
@@ -18,7 +18,7 @@ I'm developer and I like to study programming more and more.
 - [Next.js](https://nextjs.org/) is an open-source development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites.
 - [Angular](https://angular.io/) is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations.
 
-## 🧸 Languages and Tools
+## 🧸 Languages
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 - [Python](https://www.python.org/) is an interpreted high-level general-purpose programming language.
