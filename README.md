@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 
-# 👋 Olá, meu nome é Rafael!
+# 👋 Hello, my name is Rafael!
 
 I'm developer and I like to study programming more and more.
 
