@@ -4,22 +4,21 @@
 
 I'm developer and I like to study programming more and more.
 
-## Tecnologias e Ferramentas
+## 🎠 Tecnologias e Ferramentas
 
-- [Visual Studio Code](https://code.visualstudio.com/) é um editor de código-fonte leve, mas poderoso, que roda em sua área de trabalho e está disponível para Windows, macOS e Linux.
-- [PyCharm](https://www.jetbrains.com/pt-br/pycharm/) é um ambiente de desenvolvimento integrado usado em programação de computadores, especificamente para a linguagem Python.
-- [Node.js](https://nodejs.org/en/) é um runtime de JavaScript construído no motor V8 JavaScript do Chrome.
-- [Ts-node](https://github.com/TypeStrong/ts-node) é um modificação do Node.js, que permite que o TypeScript seja executado perfeitamente.
-- [Github](https://github.com/) é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
-- [Git](https://git-scm.com/) é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+- [Visual Studio Code](https://code.visualstudio.com/) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
+- [PyCharm](https://www.jetbrains.com/pycharm/) is an integrated development environment (IDE) used in computer programming, specifically for the Python language.
+- [NodeJS](https://nodejs.org/en/) is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
+- [Typescript](https://www.typescriptlang.org/)  is a programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language.
+- [Github](https://github.com/) is a provider of Internet hosting for software development and version control using Git.
+- [Git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-## Web desenvolvimento
-- [React](https://pt-br.reactjs.org/) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
-- [Next.js](https://nextjs.org/) é uma estrutura da web de desenvolvimento front-end React de código aberto criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React.
-- [Express](https://expressjs.com/pt-br/) é um framework para Node.js que fornece recursos mínimos para construção de servidores web.
+## 🌲 Web Development
+- [React](https://reactjs.org/) is a free and open-source front-end JavaScript library for building user interfaces or UI components.
+- [Next.js](https://nextjs.org/) is an open-source development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites.
+- [Angular](https://angular.io/) is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations.
 
-## Linguagens
+## 🧸 Languages and Tools
 
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
-- [Typescript](https://www.typescriptlang.org/) é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem.
-- [Python](https://www.python.org/) é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+- [Python](https://www.python.org/) is an interpreted high-level general-purpose programming language.
