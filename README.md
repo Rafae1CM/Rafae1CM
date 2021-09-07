@@ -20,5 +20,5 @@ I'm developer and I like to study programming more and more.
 
 ## 🧸 Languages
 
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 - [Python](https://www.python.org/) is an interpreted high-level general-purpose programming language.
